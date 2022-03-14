@@ -19,7 +19,7 @@ var hoteles = {
 };
 
 var hotelselection = prompt(
-  '¿Qué hotel quiere elegir, Hesperia, Bailio, o Hesperia?'
+  '¿Qué hotel quiere elegir, Center, Bailio, o Hesperia?'
 );
 
 document.getElementById('hotel-name').innerHTML = hoteles[hotelselection].name;
