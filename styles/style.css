@@ -1,0 +1,12 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+.header {
+  text-align: center;
+}
+
+.hotel-container {
+  display: flex;
+  flex-direction: column;
+}
